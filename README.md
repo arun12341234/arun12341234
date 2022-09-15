@@ -2,45 +2,67 @@ Hi!
 I'm Arun Kumar and I have 3.5 years of experience as an angular 8+ & Python/Django developer,
 
 Expertise in:-
+<ul>
+  <li>
+    Python
+  </li>
+    <li>
+    Django
+  </li>
+    <li>
+    Angular 8+
+  </li>
+    <li>
+    Flask
+  </li>
+    <li>
+    Data Binding
+  </li>
+    <li>
+    UI design
+  </li>
+    <li>
+    Rest API
+  </li>
+    <li>
+    Git
+  </li>
+    <li>
+    Firebase
+  </li>
+    <li>
+    Payment gateways
+  </li>
+    <li>
+    Google Maps
+  </li>
+    <li>
+    Ecommerce app development
+  </li>
+    <li>
+    Debugging
+  </li>
+    <li>
+    Redis
+  </li>
+    <li>
+    MongoDB
+  </li>
+    <li>
+    MySQL
+  </li>
+    <li>
+    PostgreSQL
+  </li>
+      <li>
+    Selenium
+  </li>
+      <li>
+    Data structure and algorithm
+  </li>
+    <li>
+    Jira scrum board
+  </li>
+</ul>
 
-● Python
-
-● Django
-
-● Angular 8+
-
-● Flask
-
-● Data Binding
-
-● UI design
-
-● Rest API
-
-● Git
-
-● Firebase
-
-● Payment gateways
-
-● Google Maps
-
-● Ecommerce app development
-
-● Debugging
-
-● Redis
-
-● MongoDB
-
-● MySQL
-
-● PostgreSQL
-
-● Selenium
-
-● Data structure and algorithm
-
-● Jira scrum board
-
-Strong programming, project management, and technical skills. Graduates with Bachelor of Technology (BTech) in Computer Science from SUS College of Engineering and Technology Tangori, Mohali. And currently looking for an opportunity for growth.
+Strong programming, project management, and technical skills. Graduates with Bachelor of Technology (BTech) in Computer Science from SUS College of Engineering and Technology Tangori, Mohali.
